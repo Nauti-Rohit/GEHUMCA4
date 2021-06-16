@@ -1,12 +1,18 @@
 Note: 1. All the questions are compulsory 
+
       2. Create folder inside the folder "MCA4Answers"  
-      2. Folder name should consist of YourName_UniversityRollNo.
-      3. Submit your code along with screenshots of output in the folder created by yourself 
-      4. Upload the folder in the given time (i.e. within 1 hour) only. if somebody uploads after 12, the submission will not be considered
-      5. For outputs, the Screenshot should be of the full Screen otherwise your program and the output will not be considered.
+    
+      3. Folder name should consist of YourName_UniversityRollNo.
+      
+      4. Submit your code along with screenshots of output in the folder created by yourself 
+      
+      5. Upload the folder in the given time (i.e. within 1 hour) only. if somebody uploads after 12, the submission will not be considered
+      
+      6. For outputs, the Screenshot should be of the full Screen otherwise your program and the output will not be considered.
       
       
-      Questions
+                                              Questions
+                                              
       1. Write a python program for counting occurence of each word in a text file.
       2. Write a Python program to check if a specific Key and a value exist in a dictionary.
          Original dictionary:
